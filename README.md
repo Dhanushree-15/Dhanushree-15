@@ -1,8 +1,14 @@
 
-#Hey there! I'm Dhanushree S P👋
 
+<h3 align="center">
+  Hey there! 👋 I'm <span style="color:#00BFFF">Dhanushree S P</span>
+</h3>
 
-I'm currently learning and growing as a developer. I'm doing my internship at **X-Workz** as an **Intern**, where I'm gaining real-world experience and sharpening my skills.
+<p align="center">
+  💻 Aspiring Full-Stack Developer & Intern at <strong>X-Workz</strong>  
+  <br>🔎 Always learning | ⚙️ Tech enthusiast | 🚀 Growth mindset  
+</p>
+
 
 - 🔭 Currently learning and building cool things  
 - 🌱 Always curious to explore new tech  
