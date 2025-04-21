@@ -25,8 +25,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&locale=en&mode=weekly&type=png&timezone=Asia%2FKolkata)
 
