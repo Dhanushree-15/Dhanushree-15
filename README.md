@@ -1,5 +1,5 @@
 
-#💫 Hey there! I'm Dhanushree S P👋
+#Hey there! I'm Dhanushree S P👋
 
 
 I'm currently learning and growing as a developer. I'm doing my internship at **X-Workz** as an **Intern**, where I'm gaining real-world experience and sharpening my skills.
