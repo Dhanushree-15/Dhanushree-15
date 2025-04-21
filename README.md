@@ -11,7 +11,7 @@
 
 - 🔭 Currently learning and building cool things  
 - 🌱 Always curious to explore new tech  
-- 💻 Focused on becoming a full-stack developer  
+- 💻 Focused on becoming a Java developer  
 - 📫 How to reach me:https://www.linkedin.com/in/dhanushree-s-p-680234265 
 
 ---
