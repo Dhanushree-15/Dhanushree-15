@@ -28,8 +28,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhanushree-15&theme=radical&timezone=Asia%2FKolkata" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Dhanushree-15&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushree-15&layout=compact&theme=radical" alt="Top Languages" />
