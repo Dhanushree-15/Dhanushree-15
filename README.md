@@ -27,8 +27,7 @@
 
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhanushree-15&theme=radical&hide_border=false&border_radius=10&date_format=j%20M%5B%2C%20Y%5D&timezone=Asia/Kolkata" alt="GitHub Streak" />
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Dhanushree-15&theme=radical&hide_border=false&border_radius=10&date_format=j%20M%5B%2C%20Y%5D&timezone=Asia/Kolkata" alt="GitHub Streak" />
 </p>
 
 <p align="center">
