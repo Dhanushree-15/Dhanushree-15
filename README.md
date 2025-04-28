@@ -6,7 +6,7 @@
   <br>🔎 Always learning | 🚀 Growth mindset  
 </p>
 <p align="center">
-  <em>"Strive for progress, not perfection." 🌿</em>
+  <em>"Strive for progress, not perfection."🌿</em>
 </p>
 
 - 🔭 Currently learning and building cool things  
